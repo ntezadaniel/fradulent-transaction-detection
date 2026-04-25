@@ -5,6 +5,11 @@
 
 ---
 
+## Dataset acquisation
+**Dataset**: PaySim Synthetic Financial Dataset for Fraud Detection
+**Creator**: Edgar Lopez-Rojas, Ahmad Elmir, Stefan Axelsson (2016)
+**Source:** Kaggle https://www.kaggle.com/datasets/ealaxi/paysim1
+**Original Research:** Lopez-Rojas E.A., Elmir A., Axelsson S. "PaySim: A financial mobile money simulator for fraud detection." 28th European Modeling and Simulation Symposium (EMSS), 2016.
 ## Overview
 Mobile money fraud is a growing threat across African markets, 
 including Uganda where services like MTN MoMo and Airtel Money 
